@@ -2,10 +2,10 @@
 
 **AREA** is a student project developed during our 3rd year at **Epitech** by:
 
-- **[LeopMartin](https://github.com/LeopMartin)** – Léo Martin  
-- **[FlorianGRIFFON](https://github.com/FlorianGRIFFON)** – Florian Griffon  
-- **[lennydelgado](https://github.com/lennydelgado)** – Lenny Delgado  
-- **[TheoSrn](https://github.com/TheoSrn)** – Théo Sornin  
+- **[LeopMartin](https://github.com/LeopMartin)**
+- **[FlorianGRIFFON](https://github.com/FlorianGRIFFON)**
+- **[lennydelgado](https://github.com/lennydelgado)**
+- **[TheoSrn](https://github.com/TheoSrn)**
 
 ---
 
