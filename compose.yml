@@ -1,0 +1,36 @@
+version: '3'
+services:
+  server:
+    build:
+      context: .
+      dockerfile: server.dockerfile
+    ports:
+      - "8080:3333"
+    networks:
+      - area
+    volumes:
+      - server_vol:/app
+  client_web:
+    build:
+      context: .
+      dockerfile: client_web.dockerfile
+    ports:
+      - "8081:3000"
+    networks:
+      - area
+    volumes:
+      - client_web_vol:/app
+  client_mobile:
+    build:
+      context: .
+      dockerfile: client_mobile.dockerfile
+    networks:
+      - area
+
+networks:
+  area:
+    driver: bridge
+
+volumes:
+  server_vol:
+  client_web_vol:

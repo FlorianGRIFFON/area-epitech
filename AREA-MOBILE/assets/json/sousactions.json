@@ -1,0 +1,9 @@
+{
+    "services": {
+        "Spotify": ["Add music to playlist", "Create playlist", "Like song"],
+        "Deezer": ["Discover new tracks", "Create playlist", "Add music to playlist"],
+        "Gmail": ["Send mail", "Mark read"],
+        "Discord": ["Send message", "Join server", "Leave server"],
+        "Slack": ["New project", "Mark notifications read", "New option"]
+    }
+}

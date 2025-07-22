@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "AREA-MOBILE",
+    "slug": "areamobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/png/AREA_logo2.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/png/AREA_logo2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/png/AREA_logo2.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.lenny.dlg.AREAMOBILE"
+    },
+    "web": {
+      "favicon": "./assets/png/favicon.png"
+    },
+    "scheme": "AREA-MOBILE",
+    "extra": {
+      "eas": {
+        "projectId": "4835157e-ed1e-41fe-8b37-ef409640b9f1"
+      }
+    },
+    "owner": "leop13"
+  }
+}
